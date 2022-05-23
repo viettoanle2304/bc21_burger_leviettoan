@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bc21_burger_leviettoan/static/css/main.6e2a6ac5.css",
+    "main.js": "/bc21_burger_leviettoan/static/js/main.5975e370.js",
+    "static/js/787.55d2bfeb.chunk.js": "/bc21_burger_leviettoan/static/js/787.55d2bfeb.chunk.js",
+    "index.html": "/bc21_burger_leviettoan/index.html",
+    "main.6e2a6ac5.css.map": "/bc21_burger_leviettoan/static/css/main.6e2a6ac5.css.map",
+    "main.5975e370.js.map": "/bc21_burger_leviettoan/static/js/main.5975e370.js.map",
+    "787.55d2bfeb.chunk.js.map": "/bc21_burger_leviettoan/static/js/787.55d2bfeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e2a6ac5.css",
+    "static/js/main.5975e370.js"
+  ]
+}
